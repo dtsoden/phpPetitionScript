@@ -1,0 +1,68 @@
+th {
+	background-color: #EF9A42;
+	border: thinn solid #000000;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	
+}
+.TopperHeader {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #006600;
+}
+.PS_Title {
+	font-size: large;
+	color: #000099;
+}
+
+td {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dotted;
+	border-left-style: none;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #006633;
+	border-right-color: #000000;
+	border-bottom-color: #006633;
+	border-left-color: #000000;
+}
+.BatchField {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: inset;
+	border-right-style: inset;
+	border-bottom-style: outset;
+	border-left-style: outset;
+	border-top-color: #006600;
+	border-right-color: #006600;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	font-family: "Courier New", Courier, monospace;
+	font-size: small;
+	color: #663333;
+	background-color: #F5F0AF;
+}
+
+.HomeLink a:link {
+	color:#FF0000;
+}
+.HomeLink a:hover {
+	color:#FF0000;
+}
+.HomeLink a:visited {
+	color:#FF0000;
+}
+.HomeLink {
+	vertical-align:middle;
+	text-align: center;
+}
+	
